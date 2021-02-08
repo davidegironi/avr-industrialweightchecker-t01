@@ -1,0 +1,21 @@
+==================================================
+AVR industrial weight checker
+==================================================
+= Copyright (c) Davide Gironi, 2021              =
+= http://davidegironi.blogspot.it/               =
+==================================================
+
+
+Industrial weight checker checks weight difference and possibly trigger
+an alter.
+
+
+Devel Notes
+-----------
+This library was developed on Eclipse, built with avr-gcc on Atmega8 @ 8MHz.
+
+
+
+License
+-------
+Please refer to LICENSE file for licensing information.
