@@ -1,5 +1,5 @@
 /*
-avr industrial weight checker v1.0
+avr industrial weight checker t01 - v1.0
 
 copyright (c) Davide Gironi, 2021
 

@@ -1,5 +1,5 @@
 /*
-avr industrial weight checker v1.0
+avr industrial weight checker t01 - v1.0
 
 copyright (c) Davide Gironi, 2021
 
@@ -259,7 +259,7 @@ int main(void) {
     lcd_gotoxy(0, 0);
     lcd_puts_p(PSTR("Ind. Wgt. Check "));
     lcd_gotoxy(0, 1);
-	lcd_puts_p(PSTR("            v1.0"));
+	lcd_puts_p(PSTR("      t01 - v1.0"));
     _delay_ms(1000);
     lcd_clrscr();
     lcd_gotoxy(0, 0);

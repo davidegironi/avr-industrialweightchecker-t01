@@ -1,18 +1,20 @@
 ==================================================
-AVR industrial weight checker
+AVR Industrial weight checker - Type 01
 ==================================================
 = Copyright (c) Davide Gironi, 2021              =
 = http://davidegironi.blogspot.it/               =
 ==================================================
 
 
-Industrial weight checker checks weight difference and possibly trigger
-an alter.
+Industrial weight checker - Type 01
+Checks weight difference between current and previous weight
+and possibly trigger an alter.
+
 
 
 Devel Notes
 -----------
-This library was developed on Eclipse, built with avr-gcc on Atmega8 @ 8MHz.
+Developed on VSCode + platform.io, built with avr-gcc on Atmega8 @ 8MHz.
 
 
 
